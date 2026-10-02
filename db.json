@@ -1,0 +1,64 @@
+{
+  "comidas": [
+    { 
+      "id": 1, 
+      "nombre": "Hamburguesa Clásica", 
+      "precio": 5.99,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 2, 
+      "nombre": "Doble Smash Burger", 
+      "precio": 8.50,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 3, 
+      "nombre": "Hamburguesa Queso Tocino", 
+      "precio": 7.25,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 4, 
+      "nombre": "Papas Fritas Medianas", 
+      "precio": 2.50,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 5, 
+      "nombre": "Papas Fritas con Queso", 
+      "precio": 3.75,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 6, 
+      "nombre": "Alitas de Pollo (6 pzas)", 
+      "precio": 6.00,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 7, 
+      "nombre": "Aros de Cebolla Crujientes", 
+      "precio": 3.00,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 8, 
+      "nombre": "Malteada de Vainilla", 
+      "precio": 4.00,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 9, 
+      "nombre": "Malteada de Chocolate", 
+      "precio": 4.00,
+      "imagen": "https://unsplash.com"
+    },
+    { 
+      "id": 10, 
+      "nombre": "Refresco Grande", 
+      "precio": 1.80,
+      "imagen": "https://unsplash.com"
+    }
+  ]
+}
