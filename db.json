@@ -4,61 +4,61 @@
       "id": 1, 
       "nombre": "Hamburguesa Clásica", 
       "precio": 5.99,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://elantojo.co/wp-content/uploads/2023/11/clasica.png"
     },
     { 
       "id": 2, 
       "nombre": "Doble Smash Burger", 
       "precio": 8.50,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://www.carniceriademadrid.es/wp-content/uploads/2022/09/smash-burger-que-es.jpg"
     },
     { 
       "id": 3, 
       "nombre": "Hamburguesa Queso Tocino", 
       "precio": 7.25,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://elantojo.co/wp-content/uploads/2023/11/tocineta.png"
     },
     { 
       "id": 4, 
       "nombre": "Papas Fritas Medianas", 
       "precio": 2.50,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://snapcalorie-webflow-website.s3.us-east-2.amazonaws.com/media/food_pics_v2/medium/medium_portion_of_chips.jpg"
     },
     { 
       "id": 5, 
       "nombre": "Papas Fritas con Queso", 
       "precio": 3.75,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://comedera.com/wp-content/uploads/sites/9/2022/11/papas-fritas-con-queso-cheddar-PG_PFCQCY30320002.jpg"
     },
     { 
       "id": 6, 
       "nombre": "Alitas de Pollo (6 pzas)", 
       "precio": 6.00,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://as2.ftcdn.net/jpg/05/94/39/67/1000_F_594396794_EEwZ4K3F1AgE6g01mrdj5340coi7NVVv.jpg"
     },
     { 
       "id": 7, 
       "nombre": "Aros de Cebolla Crujientes", 
       "precio": 3.00,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://mylatinatable.com/wp-content/uploads/2016/01/foto-heroe-1024x693.jpg"
     },
     { 
       "id": 8, 
       "nombre": "Malteada de Vainilla", 
       "precio": 4.00,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://i.pinimg.com/564x/d3/cf/93/d3cf93f50dfaf801c9108609e3efa7ec.jpg"
     },
     { 
       "id": 9, 
       "nombre": "Malteada de Chocolate", 
       "precio": 4.00,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://sazonsula.com/wp-content/uploads/2022/06/receta-malteada-de-cafe-sazon-sula.jpg"
     },
     { 
       "id": 10, 
       "nombre": "Refresco Grande", 
       "precio": 1.80,
-      "imagen": "https://unsplash.com"
+      "imagen": "https://s.alicdn.com/@sc04/kf/H98c8b4bf7bf04a0282bcf1623a7cc5d5B.jpg_300x300.jpg"
     }
   ]
 }
